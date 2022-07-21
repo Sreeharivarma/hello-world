@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "sreekanth" 
-COPY /opt/sree/webapp.war /usr/local/tomcat/webapps
+COPY /home/ansadmin/opt/sree/webapp.war /usr/local/tomcat/webapps
